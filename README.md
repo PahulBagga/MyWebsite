@@ -30,6 +30,12 @@ Pahul Bagga
             <p>Summary of your first blog post.
             <a href="Pahul-Bagga-blog.html">Read more</a></p>
 </article>
+
+
+<section id="portfolio">
+        <h2>Portfolio</h2>
+</section>
+
 <footer>
 <p>&copy; 2024 Pahul Bagga. All rights reserved.</p>
 </footer>
