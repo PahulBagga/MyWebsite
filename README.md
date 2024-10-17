@@ -7,10 +7,7 @@ Pahul Bagga
 </title>
 <style>
 body {
-            background-image: url=('file:///C:\Users\Lenovo\OneDrive\Desktop\IMG_3051');
-            background-repeat: no-repeat;
-            background-size: cover;
-            background-position: center;
+  background-color: lightblue;
         }
 </style>
 </head>
