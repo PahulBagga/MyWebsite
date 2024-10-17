@@ -7,7 +7,7 @@ Pahul Bagga
 </title>
 <style>
 body {
-            background-image: url('IMG_3051');
+            background-image: url("IMG_3051");
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
